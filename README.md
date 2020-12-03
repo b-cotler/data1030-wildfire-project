@@ -20,3 +20,4 @@ figures
 report
 -pdf of written report for this machine learning project
 
+See data1030-wildfire-environment.yml for the python environment used for this project. 
