@@ -1,4 +1,5 @@
 name: data1030
+#python version 3.6.12
 channels:
   - conda-forge
   - defaults
